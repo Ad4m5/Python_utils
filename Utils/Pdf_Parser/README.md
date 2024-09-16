@@ -19,3 +19,6 @@ metagoofil -d YOURTARGET.com -t pdf -w -o ./pdf_extract
 cd pdf_extract
 python3 pdf_parser.py -d YOURTARGET.com --dir $(pwd)
 ```
+# Ressources
+- https://github.com/opsdisk/metagoofil
+- https://www.kali.org/tools/metagoofil/
